@@ -1,0 +1,16 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "resource1",
+      "profile": "tabular-data-resource",
+      "schema": {}
+    }
+  ],
+  "keywords": [
+    "daily oil prices"
+  ],
+  "name": "dailydata_oilprices",
+  "title": "My Daily Oil Prices",
+  "description": "Date vs oil Prices: Henry hub Gas Prices"
+}
